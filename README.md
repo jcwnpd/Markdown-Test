@@ -1,1 +1,1 @@
-[**Basketball Home**](/Basketball.md) | [**Food Home**](/Food.md)
+[**Basketball**](/Basketball.md) | [**Food**](/Food.md)
